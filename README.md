@@ -11,10 +11,5 @@
 
 - ⚡ Connect with me on LinkedIn **https://www.linkedin.com/in/omkarsp45/**
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/omkarsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarsp45" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/9d/13/97/9d139793ffd7896f5694c3b8fa429413.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/23-237366_transparent-html-logo-png-png-download.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png" alt="python" width="40" height="40"/> </a> </p>
