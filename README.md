@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Omkar Patil
+- 👀 I’m interested in Open-Source.
+- 🌱 I’m currently learning full stack web-dev.
+- 📫 How to reach me omkar.spatil@outlook.com
+- 📱 Connect with me on LinkedIn https://www.linkedin.com/in/omkarsp45/
